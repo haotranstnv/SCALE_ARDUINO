@@ -14,4 +14,4 @@
 ![alt](https://scontent.fsgn5-10.fna.fbcdn.net/v/t1.15752-9/364394754_675023357355385_2076852650481762909_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_ohc=JG7jeevou6kAX9VUX2g&_nc_ht=scontent.fsgn5-10.fna&oh=03_AdQJb0hU8h9fqVgce9gj1--4WoJW8wPSfTCxZM31vQvc5w&oe=64F500B3)
 # Fig. 3. Sample 1, result with error = 0g
 ![alt](https://scontent.fsgn5-14.fna.fbcdn.net/v/t1.15752-9/364428290_793955912371163_3494781712590980902_n.png?_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_ohc=fi31D8i7VPEAX_s7Oou&_nc_ht=scontent.fsgn5-14.fna&oh=03_AdTPH9WczGGuONHixnVVeTbkPOIc2ba6Sk2xAFJy3Dp2YA&oe=64F516A8)
-# Fig. 3. Sample 2, result with error = 7g
+# Fig. 4. Sample 2, result with error = 7g
